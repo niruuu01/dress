@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Try-On",
+  "description": "Upload a photo of yourself and a garment to see how it looks on you using AI.",
+  "requestFramePermissions": []
+}
